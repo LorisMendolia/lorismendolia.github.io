@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: FRIA PhD student at the <a href='https://www.neuroengineering.uliege.be/'>Neuroengineering laboratory</a> of the University of Liège, Belgium.
+subtitle: FRIA PhD student at the <a href='https://www.neuroengineering.uliege.be/'>Neuroengineering laboratory</a> of the University of Liège, Belgium 🇧🇪.
 
 profile:
   align: right
@@ -32,4 +32,4 @@ latest_posts:
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
-Website under construction 🏗️. Please come back later.
+Website under construction 🏗️. Stay tuned for more.
