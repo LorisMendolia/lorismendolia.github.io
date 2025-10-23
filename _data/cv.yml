@@ -1,97 +1,134 @@
-- title: General Information
+- title: About me
   type: map
   contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+    - name: Name
+      value: Loris Mendolia
+    - name: Nationality
+      value: Belgian
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: PhD in Engineering and Technology
+      location: Liège, Belgium
+      institution: University of Liège
+      year: 2022 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - A low-power VLSI neuromorphic chip with neuromodulation capabilities for adaptive event-based signal processing, decision making, and actuation.
+        - FRIA Doctoral Research Grantee (F.R.S.-FNRS National Fund for Scientific Research) since October 2023.
+        - title: Thesis directors
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+            - Alessio Franci
+            - Jean-Michel Redouté
+    - title: Master of Science in Biomedical Engineering
+      location: Liège, Belgium
+      institution: University of Liège
+      year: 2020 - 2022
       description:
-        - Description 1.
-        - Description 2.
+        - Summa cum laude with Congratulations of the jury.
+        - title: Master thesis
+          contents:
+            - "Electrical impedance tomography for external wound monitoring: measurements, signal processing and image reconstruction"
+            - "Supervisor: Jean-Michel Redouté"
+            - Outstanding Master Thesis Award - Faculty of Applied Sciences
+    - title: Bachelor of Science in Engineering
+      location: Liège, Belgium
+      institution: University of Liège
+      year: 2017 - 2020
+      description:
+        - Magna cum laude.
+        - Fernand Pisard Scholarship laureate.
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Teaching assistant
+      location: Liège, Belgium
+      institution: Faculty of Applied Sciences, University of Liège
+      year: 2022 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - title: <a href="https://www.programmes.uliege.be/cocoon/cours/GNEU0003-1.html">Neuromorphic signal processing</a> (Master level)
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+            - Practical lectures and SPICE/Cadence simulation sessions.
+        - title: <a href="https://www.programmes.uliege.be/cocoon/cours/GBIO0029-1.html">Bioelectronics</a> (Master level)
+          contents:
+            - Analog ECG front-end design laboratory sessions and SPICE simulations.
+        - title: <a href="https://www.programmes.uliege.be/cocoon/cours/ELEN0037-1.html">Microelectronics and IC design</a> (Master level)
+          contents:
+            - FPGA programming project supervision.
+    - title: Engineering intern
+      location: Esneux, Belgium
+      department: KapLab by CHU Liège
+      year: 2022
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+        - CAD design, 3D printing and electronics work for patient-specific technical assistance devices
+        - Digitalization of pressure measurement devices for physiotherapy
+        - Handigaming devices programming and adaptation
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2024
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - FRIA Doctoral Grant Renewal (National Fund for Scientific Research - F.R.S.-FNRS)
+    - year: 2023
       items:
-        - Max Planck Medal
+        - Fund for Research Training in Industry and Agriculture (FRIA) Doctoral Grant (National Fund for Scientific Research - F.R.S.-FNRS)
+    - year: 2022
+      items:
+        - Outstanding Master Thesis Award - Faculty of Applied Sciences, University of Liège
+    - year: 2017
+      items:
+        - Fernand Pisard Scholarship - Faculty of Applied Sciences, University of Liège
 
-- title: Academic Interests
-  type: nested_list
+- title: Skills
+  type: list_groups
   contents:
-    - title: Topic 1.
+    - category: Programming Languages
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - name: Python
+        - name: C
+        - name: MATLAB
+        - name: Julia
+    - category: Tools & Frameworks
       items:
-        - Description 1.
-        - Description 2.
+        - name: LaTeX
+        - name: Git/GitHub
+        - name: Jupyter
+    - category: Software
+      items:
+        - name: Cadence Virtuoso
+        - name: LTSpice
+        - name: Altium Designer
+        - name: COMSOL Multiphysics
+        - name: Office Suite
+        - name: Photoshop
+        - name: Fusion 360
+    - category: Other Skills
+      items:
+        - name: Analog Circuit Design
+        - name: Signal Processing
+        - name: Neuromorphic Engineering
+        - name: Biomedical Instrumentation
+        - name: Additive Manufacturing (3D Printing)
+
+- title: Languages
+  type: list_groups
+  contents:
+    - category: French
+      items:
+        - name: Native
+    - category: English
+      items:
+        - name: C2 - Full Professional Proficiency
+    - category: German
+      items:
+        - name: B1 - Intermediate Proficiency
+    - category: Portuguese
+      items:
+        - name: A2 - Elementary Proficiency
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Video games, cooking, hiking, traveling, DIY and repairs, swimming, jiu-jitsu.
