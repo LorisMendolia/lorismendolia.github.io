@@ -23,16 +23,11 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+        },{id: "news-my-first-paper-preprint-on-a-neuromodulable-current-mode-silicon-neuron-is-out-tada-check-it-out-on-arxiv",
+          title: 'My first paper preprint on a neuromodulable current-mode silicon neuron is out! :tada:...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-i-gave-a-presentation-on-timing-reliability-in-mismatched-neuromorphic-neurons-at-the-45th-benelux-meeting-on-systems-and-control-find-out-more-here-smile",
+          title: 'I gave a presentation on timing reliability in mismatched neuromorphic neurons at the...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
