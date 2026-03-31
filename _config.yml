@@ -212,6 +212,7 @@ exclude:
   - _pages/projects.md
   - _pages/repositories.md
   # - _pages/cv.md
+  - _news/announcement_example.md
 keep_files:
   - CNAME
   - .nojekyll
