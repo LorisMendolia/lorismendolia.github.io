@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-06'
+  last_updated: '2026-04-22'
 papers:
   2H2DoaoAAAAJ:2osOgNQ5qMEC:
     citations: 4
@@ -9,6 +9,10 @@ papers:
     citations: 5
     title: A Neuromodulable Current-Mode Silicon Neuron for Robust and Adaptive Neuromorphic Systems
     year: '2025'
+  2H2DoaoAAAAJ:W7OEmFMy1HYC:
+    citations: 0
+    title: Input-driven timing reliability in mismatched neuromorphic neurons
+    year: '2026'
   2H2DoaoAAAAJ:qjMakFHDy7sC:
     citations: 0
     title: Embodied neuromodulation for neuromorphic rhythmic control
