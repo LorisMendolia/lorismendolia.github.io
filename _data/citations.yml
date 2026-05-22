@@ -1,18 +1,26 @@
 metadata:
-  last_updated: '2026-04-22'
+  last_updated: '2026-05-22'
 papers:
   2H2DoaoAAAAJ:2osOgNQ5qMEC:
     citations: 4
     title: Networks of low-power CMOS neuromorphic neurons with robust neuromodulation capabilities for intelligent and adaptable neuromorphic systems
     year: '2023'
   2H2DoaoAAAAJ:Tyk-4Ss8FVUC:
-    citations: 5
+    citations: 6
     title: A Neuromodulable Current-Mode Silicon Neuron for Robust and Adaptive Neuromorphic Systems
     year: '2025'
   2H2DoaoAAAAJ:W7OEmFMy1HYC:
     citations: 0
     title: Input-driven timing reliability in mismatched neuromorphic neurons
     year: '2026'
+  2H2DoaoAAAAJ:WF5omc3nYNoC:
+    citations: 0
+    title: A Fully Tunable Ultra-Low Power Current-Mode Memory Cell in Standard CMOS Technology
+    year: '2026'
+  2H2DoaoAAAAJ:YsMSGLbcyi4C:
+    citations: 0
+    title: Hardware-Algorithm Co-Design of Analog Recurrent Neural Networks for Sub-Microwatt Inference
+    year: Unknown Year
   2H2DoaoAAAAJ:qjMakFHDy7sC:
     citations: 0
     title: Embodied neuromodulation for neuromorphic rhythmic control
