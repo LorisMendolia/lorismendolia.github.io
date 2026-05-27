@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-05-22'
+  last_updated: '2026-05-27'
 papers:
   2H2DoaoAAAAJ:2osOgNQ5qMEC:
     citations: 4
     title: Networks of low-power CMOS neuromorphic neurons with robust neuromodulation capabilities for intelligent and adaptable neuromorphic systems
     year: '2023'
   2H2DoaoAAAAJ:Tyk-4Ss8FVUC:
-    citations: 6
+    citations: 7
     title: A Neuromodulable Current-Mode Silicon Neuron for Robust and Adaptive Neuromorphic Systems
     year: '2025'
   2H2DoaoAAAAJ:W7OEmFMy1HYC:
@@ -21,6 +21,10 @@ papers:
     citations: 0
     title: Hardware-Algorithm Co-Design of Analog Recurrent Neural Networks for Sub-Microwatt Inference
     year: Unknown Year
+  2H2DoaoAAAAJ:_FxGoFyzp5QC:
+    citations: 0
+    title: Revisiting mismatch in neuromorphic neurons through input dynamics
+    year: '2026'
   2H2DoaoAAAAJ:qjMakFHDy7sC:
     citations: 0
     title: Embodied neuromodulation for neuromorphic rhythmic control
@@ -29,6 +33,10 @@ papers:
     citations: 0
     title: 'Master thesis: Electrical impedance tomography for external wound monitoring: measurements, signal processing and image reconstruction'
     year: '2022'
+  2H2DoaoAAAAJ:ufrVoPGSRksC:
+    citations: 0
+    title: Hardware-Software Co-Design of Scalable, Energy-Efficient Analog Recurrent Computations
+    year: '2026'
   2H2DoaoAAAAJ:zYLM7Y9cAGgC:
     citations: 2
     title: Designing, tuning and building ultra-low-power neuromodulable mixed-feedback silicon neurons
