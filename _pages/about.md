@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: FRIA PhD student at the <a href='https://www.neuroengineering.uliege.be/'>Neuroengineering laboratory</a> of the University of Liège, Belgium 🇧🇪.
+subtitle: FRIA PhD student at the <a href='https://www.neuroengineering.uliege.be/'>Neuroengineering laboratory</a> of the University of Liège, Belgium 🇧🇪. Graduating early 2027 · open to postdoc opportunities.
 
 profile:
   align: right
