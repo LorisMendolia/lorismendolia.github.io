@@ -209,7 +209,7 @@ exclude:
   - _pages/profiles.md
   # - _pages/publications.md
   - _pages/teaching.md
-  - _pages/projects.md
+  # - _pages/projects.md
   - _pages/repositories.md
   # - _pages/cv.md
   - _news/announcement_example.md
