@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: FRIA PhD student at the <a href='https://www.neuroengineering.uliege.be/'>Neuroengineering laboratory</a> of the University of Liège, Belgium 🇧🇪. Graduating early 2027 · open to postdoc opportunities.
+subtitle: FRIA PhD student at the <a href='https://www.neuroengineering.uliege.be/'>Neuroengineering laboratory</a> of the University of Liège, Belgium 🇧🇪.<br>Graduating early 2027 · open to postdoc opportunities.
 
 profile:
   align: right
@@ -27,4 +27,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a PhD student in the <a href='https://www.neuroengineering.uliege.be/'>Neuroengineering laboratory</a> of the <a href='https://www.montefiore.uliege.be/'>Montefiore Institute</a> of University of Liège, under the supervision of <a href='https://sites.google.com/site/francialessioac/'> Alessio Franci</a> and <a href='https://people.montefiore.uliege.be/jmredoute/'>Jean-Michel Redouté</a>. My research focuses on the design of low-power analog neuromophic integrated circuits implementing neuromodulation mechanisms. I am particularly interested in neuromorphic control and signal processing for robotics, biomedical applications, and brain-machine interfaces. I am currently funded by the <a href='https://www.frs-fnrs.be/en/financements/chercheur-doctorant#fria'>FRIA</a> grant from the Belgian National Fund for Scientific Research (F.R.S.-FNRS). I obtained my Master's degree in Biomedical Engineering with professional focus in Bioelectronics from the University of Liège in 2022.
+I am a PhD candidate in the <a href='https://www.neuroengineering.uliege.be/'>Neuroengineering laboratory</a> of the <a href='https://www.montefiore.uliege.be/'>Montefiore Institute</a> of University of Liège, under the supervision of <a href='https://sites.google.com/site/francialessioac/'> Alessio Franci</a> and <a href='https://people.montefiore.uliege.be/jmredoute/'>Jean-Michel Redouté</a>.<br>My research focuses on the design of low-power analog neuromophic integrated circuits implementing neuromodulation mechanisms. I am particularly interested in neuromorphic control and signal processing for robotics, biomedical applications, and brain-machine interfaces.<br>I am currently funded by the <a href='https://www.frs-fnrs.be/en/financements/chercheur-doctorant#fria'>FRIA</a> grant from the Belgian National Fund for Scientific Research (F.R.S.-FNRS). I obtained my Master's degree in Biomedical Engineering with professional focus in Bioelectronics from the University of Liège in 2022.

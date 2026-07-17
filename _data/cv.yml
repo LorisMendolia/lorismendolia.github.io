@@ -14,7 +14,7 @@
       institution: University of Liège
       year: 2022 - Present
       description:
-        - A low-power VLSI neuromorphic chip with neuromodulation capabilities for adaptive event-based signal processing, decision making, and actuation.
+        - Reliable, tunable, and adaptive ultra‑low‑power neuromorphic architectures using neuromodulation.
         - FRIA Doctoral Research Grantee (F.R.S.-FNRS National Fund for Scientific Research) since October 2023.
         - title: Thesis directors
           contents:
@@ -103,7 +103,7 @@
         - name: COMSOL Multiphysics
         - name: Office Suite
         - name: Photoshop
-        - name: Fusion 360
+        - name: Autodesk Fusion
     - category: Other Skills
       items:
         - name: Analog Circuit Design
