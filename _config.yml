@@ -164,7 +164,7 @@ collections:
   projects:
     output: true
   teachings:
-    output: true
+    output: false
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
@@ -213,6 +213,7 @@ exclude:
   - _pages/repositories.md
   # - _pages/cv.md
   - _news/announcement_example.md
+  - _teachings/
 keep_files:
   - CNAME
   - .nojekyll
