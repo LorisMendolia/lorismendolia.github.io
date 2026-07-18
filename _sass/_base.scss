@@ -357,6 +357,16 @@ ul.task-list input[type="checkbox"] {
   }
 }
 
+.site-icon {
+  width: auto;
+  display: inline-block;
+}
+
+.site-icon-header {
+  height: 40px;
+  vertical-align: middle;
+}
+
 .navbar-toggler {
   .icon-bar {
     display: block;
