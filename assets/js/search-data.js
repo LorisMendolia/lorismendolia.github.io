@@ -39,7 +39,7 @@ ninja.data = [{
           section: "News",},{id: "news-i-had-the-pleasure-be-part-of-the-2026-capocaccia-workshops-toward-neuromorphic-intelligence-beach-umbrella-i-got-the-opportunity-to-present-my-new-chip-more-about-it-soon-and-participate-in-fascinating-projects-as-well-as-to-meet-and-discuss-with-many-amazing-people-in-the-field-stay-tuned-for-more-news-on-the-outcomes-of-the-workshop",
           title: 'I had the pleasure be part of the 2026 CapoCaccia Workshops toward Neuromorphic...',
           description: "",
-          section: "News",},{id: "news-i-gave-a-talk-on-revisiting-mismatch-in-neuromorphic-neurons-through-input-dynamics-at-the-2026-international-conference-on-neuromorphic-computing-and-engineering-tada-stay-tuned-for-the-presentation-slides-and-video-recording-which-will-be-available-soon",
+          section: "News",},{id: "news-i-gave-a-talk-on-revisiting-mismatch-in-neuromorphic-neurons-through-input-dynamics-at-the-2026-international-conference-on-neuromorphic-computing-and-engineering-tada-you-can-find-the-slides-here-and-the-video-recording-of-the-talk-here",
           title: 'I gave a talk on “Revisiting mismatch in neuromorphic neurons through input dynamics”...',
           description: "",
           section: "News",},{id: "projects-a-neuromodulable-cmos-neuron",
