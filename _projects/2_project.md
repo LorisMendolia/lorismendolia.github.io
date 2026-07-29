@@ -6,7 +6,7 @@ img: assets/img/reliability_res.svg
 importance: 1
 # category: work
 related_publications: true
-redirect: https://orbi.uliege.be/bitstream/2268/344993/3/ICNCE 2026 Mendolia.pdf
+redirect: https://youtu.be/JVvpKLP6LUk?si=qb7jYuIktKVz7PXo
 ---
 
 More to come!
