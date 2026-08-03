@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-07-10'
+  last_updated: '2026-08-03'
 papers:
   2H2DoaoAAAAJ:2osOgNQ5qMEC:
     citations: 4
     title: Networks of low-power CMOS neuromorphic neurons with robust neuromodulation capabilities for intelligent and adaptable neuromorphic systems
     year: '2023'
   2H2DoaoAAAAJ:Tyk-4Ss8FVUC:
-    citations: 8
+    citations: 9
     title: A Neuromodulable Current-Mode Silicon Neuron for Robust and Adaptive Neuromorphic Systems
     year: '2025'
   2H2DoaoAAAAJ:W7OEmFMy1HYC:
