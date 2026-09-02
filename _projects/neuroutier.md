@@ -3,7 +3,7 @@ layout: page
 title: Neuroutier
 description: An analog neuromorphic processor architecture with dual synaptic and neuromodulatory crossbar array
 img: assets/img/neuroutier.png
-importance: 1
+importance: 3
 # category: work
 related_publications: false
 ---
