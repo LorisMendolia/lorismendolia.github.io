@@ -46,17 +46,17 @@ ninja.data = [{
           title: 'A neuromodulable CMOS neuron',
           description: "A subthreshold current-mode neuron capable of neuromodulation",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
-            },},{id: "projects-timing-reliability-in-analog-silicon-neurons",
-          title: 'Timing reliability in analog silicon neurons',
-          description: "Revisiting mismatch in neuromorphic hardware",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
+              window.location.href = "/projects/imf_neuron/";
             },},{id: "projects-neuroutier",
           title: 'Neuroutier',
           description: "An analog neuromorphic processor architecture with dual synaptic and neuromodulatory crossbar array",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
+              window.location.href = "/projects/neuroutier/";
+            },},{id: "projects-timing-reliability-in-analog-silicon-neurons",
+          title: 'Timing reliability in analog silicon neurons',
+          description: "Revisiting mismatch in neuromorphic hardware",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/timing_reliability/";
             },},{
         id: 'social-email',
         title: 'email',
