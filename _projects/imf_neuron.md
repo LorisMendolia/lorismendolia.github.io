@@ -16,4 +16,4 @@ The design combines compactness, configurability, and biological realism, and se
 
 {% include video.liquid path="assets/video/chip1_demo.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %} 
 
-### This page is under construction. More details and results will be added soon. In the meantime, you can check out the related publication  {% cite mendolia_neuromodulable_2025 %}
+### This page is under construction. More details and results will be added soon. In the meantime, you can check out the related publication  {% cite mendolia_neuromodulable_2026 %}
