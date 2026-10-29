@@ -42,7 +42,7 @@ ninja.data = [{
           section: "News",},{id: "news-i-gave-a-talk-on-revisiting-mismatch-in-neuromorphic-neurons-through-input-dynamics-at-the-2026-international-conference-on-neuromorphic-computing-and-engineering-microphone-you-can-find-the-slides-here-and-the-video-recording-of-the-talk-here",
           title: 'I gave a talk on “Revisiting mismatch in neuromorphic neurons through input dynamics”...',
           description: "",
-          section: "News",},{id: "news-my-first-paper-mendolia-et-al-2026-on-a-neuromodulable-current-mode-silicon-neuron-has-been-accepted-for-publication-in-neuromorphic-computing-and-engineering-bookmark-tabs-you-can-read-the-accepted-manuscript-on-the-journal-website",
+          section: "News",},{id: "news-my-first-paper-mendolia-et-al-2026-on-a-neuromodulable-current-mode-silicon-neuron-has-been-published-in-neuromorphic-computing-and-engineering-bookmark-tabs-you-can-read-it-on-the-journal-website",
           title: 'My first paper (Mendolia et al., 2026) on a neuromodulable current-mode silicon neuron...',
           description: "",
           section: "News",},{id: "projects-a-neuromodulable-cmos-neuron",
